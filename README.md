@@ -3,10 +3,15 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%3E-blue?style=for-the-badge&logo=telegram)](https://t.me/maHamma)
 
 ### Language :
-<img align="left" alt="JavaScript" width="34px" src="images/logo/javascript.png" />
+[![Python](https://img.shields.io/badge/-PYTHON-yellow?style=for-the-badge&logo=python)](https://t.me/maHamma)
+[![Python](https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=R)](https://t.me/maHamma)
+[![Python](https://img.shields.io/badge/-JAVASCRIPT-red?style=for-the-badge&logo=javascript)](https://t.me/maHamma)
+[![Python](https://img.shields.io/badge/-PYTHON-yellow?style=for-the-badge&logo=python)](https://t.me/maHamma)
+
+<!--<img align="left" alt="JavaScript" width="34px" src="images/logo/javascript.png" />
 <img align="left" alt="Python" width="34px" src="images/logo/python.png" />
 <img align="left" alt="R" width="34px" src="images/logo/r.png" />
-<img align="left" alt="HTML" width="34px" src="images/logo/html.png" />
+<img align="left" alt="HTML" width="34px" src="images/logo/html.png" />-->
 <br/>
 
 ### Tools :
