@@ -1,4 +1,4 @@
-## ABSURD REPO
+### Contact me :
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%3E-orange?style=for-the-badge&logo=instagram)](https://instagram.com/nyek_)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%3E-blue?style=for-the-badge&logo=telegram)](https://t.me/maHamma)
 
