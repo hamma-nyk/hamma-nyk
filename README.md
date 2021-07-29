@@ -3,22 +3,15 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%3E-blue?style=for-the-badge&logo=telegram)](https://t.me/maHamma)
 
 ### Language and tools:
-<!DOCTYPE html>
-<html>
-	<head>
-	</head>
-	<body>
-		<div style="padding-left: 100px;">
-			<img align="left" alt="Visual Studio Code" width="38px" style="margin:-5px 0px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-		<div/>
-		<div style="padding-left: 10px;">
-			<img align="left" alt="R" width="32px" style="margin:-3px 0px 0px -4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-		<div/>
-		<div style="padding-left: 10px;">
-			<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-		<div/>
-	</body>
-</html> 
+<div style="margin-right: 50px">
+	<img align="left" alt="Visual Studio Code" width="38px" style="margin:-5px 0px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<div/>
+<div style="padding-left: 10px;">
+	<img align="left" alt="R" width="32px" style="margin:-3px 0px 0px -4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<div/>
+<div style="padding-left: 10px;">
+	<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<div/>
 
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
@@ -26,6 +19,7 @@
 
 [telegram]: https://t.me/maHamma
 [instagram]: https://instagram.com/nyek_
+
 
 <!---
 Hamma-nyk/Hamma-nyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
