@@ -18,6 +18,7 @@
 [telegram]: https://t.me/maHamma
 [instagram]: https://instagram.com/nyek_
 
+![NCoders GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Hamma-nyk&show_icons=true)
 ![NCoders Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamma-nyk&layout=compact&hide=java)
 <!---
 Hamma-nyk/Hamma-nyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
