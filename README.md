@@ -1,7 +1,8 @@
 ## JUST AN ABSURD REPO
+[![Website](https://img.shields.io/badge/INSTAGRAM-%3E-lightgrey?style=for-the-badge&logo=instagram)](https://instagram.com/nyek_)
 
 ## Connect with me:
-[![Website](https://img.shields.io/website?label=INSTAGRAM&style=Click&logo=instagram)](https://instagram.com)
+
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 <br />
