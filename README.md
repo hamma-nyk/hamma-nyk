@@ -7,11 +7,10 @@
 <img align="left" alt="Python" width="34px" src="images/logo/python.png" />
 <img align="left" alt="R" width="34px" src="images/logo/r.png" />
 <img align="left" alt="HTML" width="34px" src="images/logo/html.png" />
+<br/>
 
 ### Tools :
-
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
-
 <br />
 
 [telegram]: https://t.me/maHamma
