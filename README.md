@@ -8,7 +8,7 @@
 	<head>
 	</head>
 	<body>
-		<div style="padding-left: 10px;">
+		<div style="padding-left: 100px;">
 			<img align="left" alt="Visual Studio Code" width="38px" style="margin:-5px 0px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 		<div/>
 		<div style="padding-left: 10px;">
