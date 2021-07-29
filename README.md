@@ -18,7 +18,7 @@
 [telegram]: https://t.me/maHamma
 [instagram]: https://instagram.com/nyek_
 
-![NCoders GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamma-nyk&icon_color=abf8ff&text_color=ffffff&hide=stars&show_icons=true&bg_color=404040&theme=gruvbox&hide_border=enabled&title_color=ff8c00)
+![NCoders GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamma-nyk&icon_color=abf8ff&text_color=ffffff&hide=stars&show_icons=true&bg_color=404040&theme=gruvbox&hide_border=enabled&title_color=ffd000)
 <!---
 Hamma-nyk/Hamma-nyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
