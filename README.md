@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%3E-orange?style=for-the-badge&logo=instagram)](https://instagram.com/nyek_)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%3E-blue?style=for-the-badge&logo=telegram)](https://t.me/maHamma)
 
-### Language :
+### Languages :
 
 [![Python](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python)](https://www.python.org)
 [![R](https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=R)](https://www.r-project.org)
@@ -17,6 +17,8 @@
 
 [telegram]: https://t.me/maHamma
 [instagram]: https://instagram.com/nyek_
+
+### Stats :
 
 ![NCoders GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamma-nyk&icon_color=ffd000&text_color=abf8ff&hide=stars&show_icons=true&bg_color=404040&theme=gruvbox&hide_border=true&title_color=ffffff)
 <!---
