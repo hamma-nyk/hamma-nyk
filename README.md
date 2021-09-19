@@ -6,9 +6,9 @@
 ### Languages :
 
 [![Python](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python)](https://www.python.org)
-![C](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c%2B%2B)]
-![Javascript](https://img.shields.io/badge/-JAVASCRIPT-red?style=for-the-badge&logo=javascript)]
-![HTML5](https://img.shields.io/badge/-HTML5-pink?style=for-the-badge&logo=html5&logoColor=white)]
+![C](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Javascript](https://img.shields.io/badge/-JAVASCRIPT-red?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-pink?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--<img align="left" alt="JavaScript" width="34px" src="images/logo/javascript.png" />
 <img align="left" alt="Python" width="34px" src="images/logo/python.png" />
