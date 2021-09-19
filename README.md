@@ -6,7 +6,7 @@
 ### Languages :
 
 [![Python](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python)](https://www.python.org)
-[![R](https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=R)](https://www.r-project.org)
+[![C](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c%2B%2B)](https://www.r-project.org)
 [![Javascript](https://img.shields.io/badge/-JAVASCRIPT-red?style=for-the-badge&logo=javascript)](https://www.javascript.com)
 
 <!--<img align="left" alt="JavaScript" width="34px" src="images/logo/javascript.png" />
