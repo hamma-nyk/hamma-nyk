@@ -1,9 +1,7 @@
-[![@hamma404's Holopin board](https://holopin.io/api/user/board?user=hamma404)](https://holopin.io/@hamma404)
 ### Contact me :
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%3E-orange?style=for-the-badge&logo=instagram)](https://instagram.com/nyek_)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%3E-blue?style=for-the-badge&logo=telegram)](https://t.me/maHamma)
-
 ### Languages :
 
 [![Python](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python)](https://www.python.org)
@@ -17,6 +15,7 @@
 <img align="left" alt="HTML" width="34px" src="images/logo/html.png" />-->
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
+[![holopin(https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75)]https://holopin.io/@hamma404)
 [telegram]: https://t.me/maHamma
 [instagram]: https://instagram.com/nyek_
 
