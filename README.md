@@ -14,10 +14,13 @@
 <img align="left" alt="C" width="34px" src="images/logo/c.png" />
 <img align="left" alt="HTML" width="34px" src="images/logo/html.png" />-->
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
-<img align="left" alt="C" width="70px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
 
 [telegram]: https://t.me/maHamma
 [instagram]: https://instagram.com/nyek_
+<br>
+### Badges :
+
+<img align="left" alt="C" width="70px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
 <br>
 ### GitHub Stats :
 
