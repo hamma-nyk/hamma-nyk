@@ -6,7 +6,7 @@ I also make a something to make myself feel dizzy.<br>
 I'm still learning about<br>
 <p align="left">
   <a href="https://github.com/Hamma-nyk">
-    <img width="150px" src="https://skillicons.dev/icons?i=nodejs,php,cpp,python&theme=dark" />
+    <img width="190px" src="https://skillicons.dev/icons?i=nodejs,php,cpp,python,html&theme=dark" />
   </a>
 </p>
 And i got this from <b>Hactoberfest</b><br><br>
