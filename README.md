@@ -1,4 +1,4 @@
-### Hello there! 👋
+## Hello there! 👋
 Welcome to my Github **'^_^**<br>
 I'm interested with programming and design.<br>
 I also make a something to make myself feel dizzy.<br>
