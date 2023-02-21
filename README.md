@@ -6,18 +6,17 @@ I also make a something to make myself feel dizzy.<br>
 I'm still learning about<br>
 <p align="left">
   <a href="https://github.com/Hamma-nyk">
-    <img width="190px" src="https://skillicons.dev/icons?i=nodejs,php,cpp,python,html&theme=dark" />
+    <img width="130px" src="https://skillicons.dev/icons?i=nodejs,php,cpp,python,html&theme=dark" />
   </a>
 </p>
-And i got this from <b>Hactoberfest</b> event!<br><br>
+<!-- And i got this from <b>Hactoberfest</b> event!<br><br>
 <div align="left">
   <img width="40px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
   <img width="40px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
   <img width="40px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
   <img width="40px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
-</div>
+</div> -->
 
-###### 
 If you want to contact me, you can [click this](https://t.me/mahamma) or [this](https://instagram.com/nyek_).
 
 <!---
