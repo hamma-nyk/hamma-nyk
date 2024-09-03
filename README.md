@@ -1,11 +1,11 @@
 ## Hello there! 👋
 Welcome to my Github **'^_^**<br><br>
-I'm still learning about<br>
-<p align="left">
+I'm still learning<br>
+<!--<p align="left">
   <a href="https://github.com/Hamma-nyk">
     <img width="130px" src="https://skillicons.dev/icons?i=nodejs,php,cpp,python,html&theme=dark" />
   </a>
-</p>
+</p>-->
 <!-- And i got this from <b>Hactoberfest</b> event!<br><br>
 <div align="left">
   <img width="40px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
