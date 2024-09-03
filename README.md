@@ -1,7 +1,7 @@
 ## Hello there! 👋
 Welcome to my Github **'^_^**<br>
-I'm still learning<br>
-<!--<p align="left">
+<!--I'm still learning<br>
+<p align="left">
   <a href="https://github.com/Hamma-nyk">
     <img width="130px" src="https://skillicons.dev/icons?i=nodejs,php,cpp,python,html&theme=dark" />
   </a>
