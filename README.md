@@ -1,5 +1,5 @@
 ## Hello there! 👋
-Welcome to my Github **'^_^**<br><br>
+Welcome to my Github **'^_^**<br>
 I'm still learning<br>
 <!--<p align="left">
   <a href="https://github.com/Hamma-nyk">
