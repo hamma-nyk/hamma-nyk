@@ -1,8 +1,5 @@
 ## Hello there! 👋
 Welcome to my Github **'^_^**<br>
-I'm interested with programming and design.<br>
-I also make a something to make myself feel dizzy.<br>
-...<br>
 I'm still learning about<br>
 <p align="left">
   <a href="https://github.com/Hamma-nyk">
