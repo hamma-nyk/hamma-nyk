@@ -1,4 +1,4 @@
-<p align="center" style="width: 100%; height: 200px"><img style="width: 100%; height: 100%; object-fit: cover;" src="https://i.ibb.co.com/4dptyB8/pixel-sky.png"></p>
+<div align="center" style="width: 100%; height: 200px"><img style="width: 100%; height: 100%; object-fit: cover;" src="https://i.ibb.co.com/4dptyB8/pixel-sky.png"></div>
 
 ## Hello there! 👋
 Welcome to my Github **'^_^**<br>
