@@ -1,7 +1,7 @@
 <div align="center"><img height="100%" width="100%" style="object-fit: cover; border-radius:50%;" src="https://i.ibb.co.com/djZ0d95/pxsky.png"></div>
 
 ## Hello there! 👋
-Welcome to my Github **'^_^**<br>
+Welcome to my Github **'-_-**<br>
 <!--I'm still learning<br>
 <p align="left">
   <a href="https://github.com/Hamma-nyk">
