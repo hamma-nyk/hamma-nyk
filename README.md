@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co.com/4dptyB8/pixel-sky.png"></p>
+<p align="center" style=""><img style="width: 100%; height: 100%;" src="https://i.ibb.co.com/4dptyB8/pixel-sky.png"></p>
 
 ## Hello there! 👋
 Welcome to my Github **'^_^**<br>
